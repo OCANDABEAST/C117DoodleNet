@@ -1,10 +1,10 @@
 function setup() {
-    canvas = createCanvas(280, 280);
-    canvas.center();
-    background("white");
-    }
-    
-    function clearCanvas() {
-    
-    background("white");
-    }
+canvas = createCanvas(280, 280);
+canvas.center();
+background("white");
+}
+
+function clearCanvas() {
+
+background("white");
+}
